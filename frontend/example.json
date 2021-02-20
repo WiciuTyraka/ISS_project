@@ -1,0 +1,23 @@
+{
+  "motorAxisRadius": "0.003",
+  "motorAxisLength": "0.0409",
+  "steelDensity": "7500",
+  "ratedTorque": "0.002",
+  "ratedCurrent": "0.3",
+  "ratedSpeed": "680.68",
+  "inductance": "0.002",
+  "resistance": "3.2",
+  "ratedVoltage": "12.0",
+  "kp": "7.0",
+  "Ti": "155.0",
+  "Td": "0.001",
+  "wheelRadius": "0.025",
+  "trackOfWheel": "12.00",
+  "tracjectory": "Ring",
+  "samplingTime": "0.0001",
+  "timeOfSimulation": "10",
+  "trajectoryCircleRadius": "0.20",
+  "trajectoryCirclePeriod": "10",
+  "trajectoryACoefficient": "1",
+  "trajectoryBCoefficient": "2"
+}
